@@ -1,3 +1,4 @@
+<img width="586" alt="Screen Shot 2021-06-30 at 10 46 21 PM" src="https://user-images.githubusercontent.com/83520969/124022281-456e3f00-d9f5-11eb-827a-6d1437c6312d.png">
 # fract-ol
 Visualization of Mandelbrot set and Julia set.
 
